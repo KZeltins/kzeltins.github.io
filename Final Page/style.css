@@ -1,0 +1,419 @@
+html{
+	height: 100%;
+	width: 100%;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+body{
+	max-height: 100%;
+	margin: 0 0 0 0;
+	background-color: #fbf9fb;
+}
+
+.myname{
+	font-family: 'Gugi', cursive;
+	max-height: 100%;
+	font-size: 22px;
+	position: absolute;
+	z-index: -1;
+	left: 0;
+	right: 0;
+	margin-left: auto; 
+ 	margin-right: auto; 
+ 	width: 170px;
+ 	top: 5%;
+ 	/**height: 29px;*/
+ 	/*margin-top: 0;*/
+ 	text-decoration: none;
+ 	color: #343239;
+}
+
+.about_page{
+	font-family: 'Gugi', cursive;
+	font-size: 20px;
+	position: absolute;
+	left: 10%;
+	text-decoration: none;
+ 	color: #343239;
+ 	top: 5.2%;
+}
+
+.IM_Work_page{
+	font-family: 'Gugi', cursive;
+	font-size: 20px; 
+	position: absolute;
+	text-decoration: none;
+ 	color: #343239;
+ 	left: 25%;
+ 	top: 5.2%;
+ 	height: 26px;
+ 	padding-top: 0;
+}
+
+.resume_page{
+	font-family: 'Gugi', cursive;
+	font-size: 20px;
+	position: absolute;
+	text-decoration: none;
+ 	color: #343239;
+ 	right: 25%;
+ 	top: 5.2%;
+}
+
+.classwork_page{
+	font-family: 'Gugi', cursive;
+	font-size: 20px;
+	position: absolute;
+	text-decoration: none;
+ 	color: #343239;
+ 	right: 10%;
+ 	top: 5.2%;
+}
+
+.line_top1{
+	width: 90%;
+	left: 5%;
+	height: 0.5%;
+	top: 3.5%;
+	background-color: #343239;
+	position: absolute;
+	z-index: 100;
+	margin: 0 0 0 0;
+}
+
+.line_top2{
+	width: 90%;
+	left: 5%;
+	height: 0.5%;
+	top: 10.9%;
+	background-color: #343239;
+	position: absolute;
+	z-index: 1000;
+	margin: 0 0 0 0;
+}
+
+.line_test1{
+	width: 88%;
+	left: 6%;
+	height: 0.3%;
+	top: 7.2%;
+	background-color: red;
+	position: absolute;
+	z-index: 10000;
+	display: none;
+}
+
+.vline_test1{
+	width: 0.3%;
+	left: 5%;
+	height: 100%;
+	background-color: red;
+	position: absolute;
+	z-index: 10000;
+}
+
+.vline_test2{
+	width: 0.3%;
+	left: 95%;
+	height: 100%;
+	background-color: red;
+	position: absolute;
+	z-index: 10000;
+}
+
+.vline_test3{
+	width: 0.3%;
+	left: 50%;
+	height: 100%;
+	background-color: red;
+	position: absolute;
+	z-index: 10000;
+}
+
+.vline_test4{
+	width: 0.3%;
+	left: 25%;
+	height: 100%;
+	background-color: red;
+	position: absolute;
+	z-index: 10000;
+}
+
+.vline_test5{
+	width: 0.3%;
+	left: 75%;
+	height: 100%;
+	background-color: red;
+	position: absolute;
+	z-index: 10000;
+}
+
+.vertical_lines{
+	display: none;
+}
+
+.copyright{
+	font-family: 'Gugi', cursive;
+	font-size: 14px;
+	position: absolute;
+	left: 6%;
+	text-decoration: none;
+ 	color: #343239;
+ 	top: 94%;
+}
+
+.copyright1{
+	font-size: 14px;
+	position: absolute;
+	left: 14%;
+	text-decoration: none;
+ 	color: #343239;
+ 	top: 94.3%;
+}
+
+.copyright2{
+	font-family: 'Gugi', cursive;
+	font-size: 14px;
+	position: absolute;
+	left: 15%;
+	text-decoration: none;
+ 	color: #343239;
+ 	top: 94%;
+}
+
+.vline_test6{
+	width: 0.15%;
+	left: 17.6%;
+	top: 94.34%;
+	height: 14px;
+	background-color: #343239;
+	position: absolute;
+	z-index: 10000;
+}
+
+.facebook_image{
+	width: 20px;
+	height: 20px;
+	left: 18%;
+	top: 94%;
+	position: absolute;
+}
+
+.linkedin_image{
+	width: 20px;
+	height: 20px;
+	left: 20%;
+	top: 94%;
+	position: absolute;
+}
+
+.tv_pic{
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	height: 400px;
+	width: 620px;
+	margin-top: 10%;
+	position: fixed;
+	z-index: 100000;
+	/*border: 1px solid black;*/
+	padding-bottom: 20px;
+}
+
+.tv_pic_in{
+	height: 400px;
+	width: 620px;
+	position: fixed;
+	z-index: 100000;
+}
+
+.tv_pic_1{
+	position: absolute;
+	z-index: -2;
+		margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 92px;
+		margin-top: 15%;
+				height: 280px;
+	width: 360px;
+	display: none;
+}
+
+.tv_pic_2{
+	position: absolute;
+	z-index: -1;
+		margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 92px;
+		margin-top: 15%;
+				height: 280px;
+	width: 360px;
+}
+
+.tv_pic_3{
+	position: absolute;
+	z-index: -1;
+		margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 92px;
+		margin-top: 15%;
+				height: 280px;
+	width: 360px;
+		display: none;
+}
+
+.tv_pic_4{
+	position: absolute;
+	z-index: -1;
+		margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 92px;
+		margin-top: 15%;
+				height: 280px;
+	width: 360px;
+		display: none;
+}
+
+.tv_pic_5{
+	position: absolute;
+	z-index: -1;
+		margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 92px;
+		margin-top: 15%;
+				height: 280px;
+	width: 360px;
+		display: none;
+}
+
+
+.tv_pic_6{
+	position: absolute;
+	z-index: -1;
+		margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 92px;
+		margin-top: 15%;
+				height: 280px;
+	width: 360px;
+		display: none;
+}
+
+.button_div{
+	margin-left: 63%;
+	margin-top: 15.35%;
+	width: 37px;
+	z-index: 2000000000;
+	position: absolute;
+}
+
+.button1{
+	height: 37px;
+	width: 37px;
+	padding-bottom: 10px;
+		z-index: 3000000000;
+}
+
+.button2{
+	height: 37px;
+	width: 37px;
+	padding-bottom: 10px;
+		z-index: 3000000000;
+}
+
+.button3{
+	height: 37px;
+	width: 37px;
+	padding-bottom: 10px;
+		z-index: 3000000000;
+}
+
+.button4{
+	height: 37px;
+	width: 37px;
+	padding-bottom: 10px;
+		z-index: 3000000000;
+}
+
+.button5{
+	height: 37px;
+	width: 37px;
+	padding-bottom: 10px;
+		z-index: 3000000000;
+}
+
+.transfer1 {
+	background-color: transparent;
+	z-index: 3000000000;
+}
+
+.transfer3 {
+	background-color: transparent;
+	z-index: 3000000000;
+}
+
+.transfer4 {
+	background-color: transparent;
+	z-index: 3000000000;
+}
+
+.transfer5 {
+	background-color: transparent;
+	z-index: 3000000000;
+}
+
+.transfer6 {
+	background-color: transparent;
+	z-index: 3000000000;
+}
+
+.under_tv_text{
+	position: absolute;
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-top: 61%;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	z-index: 500000000;
+	font-color: red;
+	opacity: 0;
+}
+
+.tv_pic:hover .under_tv_text{
+	opacity: 1;
+}
+
+
+/*	width: 0.2em;
+	height: 24px;
+	background-color: #343239;
+	left: 43.3%;
+	position: fixed;
+	top: 5.4%;
+	z-index: 20000000;
+	display: inline-block;
+}
+
+.line_right{
+	width: 0.2em;
+	height: 24px;
+	background-color: #343239;
+	/*left: 56.5%;*/
+	/*left: 59%;
+
+	position: fixed;
+	top: 5.4%;
+	z-index: 20000000;
+	display: inline-block;
+}*/

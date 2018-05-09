@@ -1,0 +1,67 @@
+html{
+	height: 100%;
+	width: 100%;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+body{
+	max-height: 100%;
+}
+
+.myname{
+	font-family: 'Gugi', cursive;
+	max-height: 100%;
+	font-size: 20px;
+	position: absolute;
+	z-index: -1;
+	left: 0;
+	right: 0;
+	margin-left: auto; 
+ 	margin-right: auto; 
+ 	width: 200px;
+ 	top: 1.75%;
+ 	height: 29px;
+ 	margin-top: 0;
+ 	text-decoration: none;
+ 	color: black;
+}
+
+.about_page{
+	font-family: 'Gugi', cursive;
+	max-height: 100%;
+	top: 1.75%;
+	font-size: 20px;
+	position: absolute;
+	z-index: 1;
+	height: 29px;
+	left: 10%;
+	margin-top: 0;
+}
+
+.IM_Work_page{
+	font-family: 'Gugi', cursive;
+	max-height: 100%;
+	margin-top: 1.75%;
+	font-size: 20px;
+	margin-left: 20%; 
+	position: absolute;
+}
+
+.resume_page{
+	font-family: 'Gugi', cursive;
+	max-height: 100%;
+	margin-top: 1.75%;
+	font-size: 20px;
+	margin-left: 70%; 
+	position: absolute;
+}
+
+.classwork_page{
+	font-family: 'Gugi', cursive;
+	max-height: 100%;
+	margin-top: 1.75%;
+	font-size: 20px;
+	margin-left: 80%; 
+	position: absolute;
+}
