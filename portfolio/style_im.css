@@ -1,3 +1,6 @@
+<!-- DISCLAIMER: SOME PARTS OF THE CODE HAVE BEEN DIRECTLY OR INDIRECTLY UTILIZIED FROM THIRD PARTY SOURCES. SOURCES USED INCLUDE stackoverflow, W3Schools AND Communications Lab Class Notes, AMONG OTHERS. FOR SPECIFIC REFERENCES PLEASE INQUIRE SEPARATELY. --> 
+
+
 html{
 	height: 100%;
 	width: 100%;
@@ -233,6 +236,7 @@ body{
 	padding-bottom: 20px;
 		font-weight: bold;
 		margin-top: 0;
+			font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment1_text1{
@@ -240,6 +244,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment1_text2{
@@ -247,6 +252,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .text_div1{
@@ -271,6 +277,7 @@ body{
 	padding-bottom: 20px;
 		font-weight: bold;
 		margin-top: 0;
+			font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment2_text1{
@@ -278,6 +285,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment2_text2{
@@ -285,6 +293,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .text_div2{
@@ -310,6 +319,7 @@ body{
 	padding-bottom: 20px;
 		font-weight: bold;
 		margin-top: 0;
+			font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment3_text1{
@@ -317,6 +327,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment3_text2{
@@ -324,6 +335,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .text_div3{
@@ -349,6 +361,7 @@ body{
 	padding-bottom: 20px;
 		font-weight: bold;
 		margin-top: 0;
+			font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment4_text1{
@@ -356,6 +369,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment4_text2{
@@ -363,6 +377,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .text_div4{
@@ -388,6 +403,7 @@ body{
 	padding-bottom: 20px;
 		font-weight: bold;
 		margin-top: 0;
+			font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment5_text1{
@@ -395,6 +411,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .assignment5_text2{
@@ -402,6 +419,7 @@ body{
 	font-family: sans-serif;
 	padding-bottom: 20px;
 			width: 500px;
+				font-family: 'Comic Sans MS', sans-serif;
 }
 
 .text_div5{
@@ -494,6 +512,7 @@ body{
 			font-weight: bold;
 			color: #343239;
     	text-align: center;
+    		font-family: 'Comic Sans MS', sans-serif;
 }
 
 .marker1{

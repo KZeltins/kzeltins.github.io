@@ -1,3 +1,6 @@
+<!-- DISCLAIMER: SOME PARTS OF THE CODE HAVE BEEN DIRECTLY OR INDIRECTLY UTILIZIED FROM THIRD PARTY SOURCES. SOURCES USED INCLUDE stackoverflow, W3Schools AND Communications Lab Class Notes, AMONG OTHERS. FOR SPECIFIC REFERENCES PLEASE INQUIRE SEPARATELY. --> 
+
+
 html{
 	height: 100%;
 	width: 100%;
@@ -248,7 +251,7 @@ body{
   font-weight: bold;
   font-size: 40px;
   backface-visibility: hidden;
-  font-family: sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 
 .card__face--front {
@@ -331,7 +334,7 @@ body{
   font-weight: bold;
   font-size: 40px;
   backface-visibility: hidden;
-  font-family: sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 
 .card__face--front2 {
@@ -386,7 +389,7 @@ body{
   font-weight: bold;
   font-size: 40px;
   backface-visibility: hidden;
-  font-family: sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 
 .card__face--front3 {
@@ -441,7 +444,7 @@ body{
   font-weight: bold;
   font-size: 40px;
   backface-visibility: hidden;
-  font-family: sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 
 .card__face--front4 {

@@ -1,3 +1,6 @@
+<!-- DISCLAIMER: SOME PARTS OF THE CODE HAVE BEEN DIRECTLY OR INDIRECTLY UTILIZIED FROM THIRD PARTY SOURCES. SOURCES USED INCLUDE stackoverflow, W3Schools AND Communications Lab Class Notes, AMONG OTHERS. FOR SPECIFIC REFERENCES PLEASE INQUIRE SEPARATELY. --> 
+
+
 html{
 	height: 100%;
 	width: 100%;
@@ -262,7 +265,7 @@ body{
 	font-size: 16px;
 	/*font-family: 'Gugi', cursive;*/
 	color: #343239;
-	  font-family: sans-serif;
+	  font-family: 'Comic Sans MS', sans-serif;
 }
 
 .text_div_above{
@@ -280,7 +283,7 @@ body{
 	font-size: 16px;
 	/*font-family: 'Gugi', cursive;*/
 	color: #343239;
-	  font-family: sans-serif;
+	  font-family: 'Comic Sans MS', sans-serif;
 }
 
 .overlay {
@@ -290,7 +293,7 @@ body{
   transition: .5s ease;
   /*background-color: #fbf9fb;*/
   z-index: 20000;
-  font-family: 'Gugi', cursive;
+ font-family: 'Comic Sans MS', sans-serif;
   font-size: 16px;
   margin-top: 0.5;
     /*font-family: sans-serif;*/
